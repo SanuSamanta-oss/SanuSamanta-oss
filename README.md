@@ -15,7 +15,7 @@ I'm currently a B.tech student <br>Enthusiastic and bug of code <br>Do you wanna
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SanuSamanta-oss&theme=cobalt&no-frame=true&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)
 
 ### 🔝 Top Contributed Repo
