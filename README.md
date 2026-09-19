@@ -131,20 +131,14 @@ The system focuses on predicting **future destination delay**, rather than simpl
 
 ---
 
-## 📈 Commit Graph
+## 🐍 Commit Graph
 
 <p align="center">
-
-<a href="https://github.com/sanusamanta-oss">
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=sanusamanta-oss&theme=github-dark&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true&days=31&custom_title=Commit%20Graph"
-  alt="Sanu Samanta Commit Graph"
-  width="100%"
-/>
-
-</a>
-
+  <img
+    src="./github-contribution-animation.svg"
+    alt="Sanu Samanta Commit Graph"
+    width="900"
+  />
 </p>
 
 ---
