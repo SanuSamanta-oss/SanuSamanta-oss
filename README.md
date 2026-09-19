@@ -32,23 +32,37 @@ B.Tech Student • Software Developer • Problem Solver • Tech Enthusiast
 <!-- RIGHT : About Me -->
 <td width="65%" valign="middle">
 
-<h2>💫 About Me</h2>
+<h2>👤 About Me</h2>
 
-I'm currently a B.Tech student with a strong interest in
+<p>
+I'm currently pursuing my B.Tech with a keen interest in 
 software development, problem-solving, and emerging technologies.
+</p>
 
-<br><br>
+<p>
+I enjoy exploring how things work, learning new concepts, and 
+continuously improving my technical skills through hands-on projects 
+and challenging problems.
+</p>
 
-I enjoy exploring how things work, learning new concepts,
-and turning challenging problem statements into practical solutions.
+<p>
+My approach to development is centered around understanding the problem 
+first, designing a practical solution, and then turning that idea into 
+clean, reliable, and maintainable code.
+</p>
 
-<br><br>
+<p>
+I'm particularly interested in building projects that combine 
+problem-solving with real-world applications, while continuously 
+learning and adapting to new technologies.
+</p>
 
+<p>
 <b>
-Just give me the problem statement —<br>
-it reveals my personality.
+Give me a problem to solve —<br>
+that's where my curiosity turns into code.
 </b>
-
+</p>
 </td>
 
 </tr>
@@ -197,61 +211,30 @@ The system focuses on predicting **future destination delay**, rather than simpl
 
 ---
 
-# 🚀 Featured Projects
-
-<table align="center">
-
-<tr>
-
-<td width="50%" valign="top">
-
-<h3 align="center">🚆 Pathasarthy</h3>
+<h2 align="center">🌐 My Portfolio</h2>
 
 <p align="center">
-AI-powered real-time train delay and ETA prediction system.
+  <i>Explore my journey, skills, projects and creative experiments.</i>
 </p>
 
 <p align="center">
-
-<a href="https://github.com/train-eta-prediction/Train_ETA_Prediction_2.0">
-
-<img
-  src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white"
-  alt="Pathasarthy Project"
-/>
-
-</a>
-
-</p>
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3 align="center">🌐 Portfolio & Projects</h3>
-
-<p align="center">
-A collection of my projects, experiments and development work.
+  <a href="https://sanu-is-here.lovable.app/">
+    <img
+      src="./assets/portfolio-preview.png"
+      width="90%"
+      alt="Sanu Samanta Portfolio"
+    />
+  </a>
 </p>
 
 <p align="center">
-
-<a href="https://sanu-is-here.lovable.app/?__lovable_sha=972d0d20">
-
-<img
-  src="https://img.shields.io/badge/View%20Projects-0e75b6?style=for-the-badge&logo=googlechrome&logoColor=white"
-  alt="Portfolio"
-/>
-
-</a>
-
+  <a href="https://sanu-is-here.lovable.app/">
+    <img
+      src="https://img.shields.io/badge/🌐%20VISIT%20MY%20PORTFOLIO-111111?style=for-the-badge"
+      alt="Visit Portfolio"
+    />
+  </a>
 </p>
-
-</td>
-
-</tr>
-
-</table>
 
 ---
 
