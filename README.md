@@ -15,19 +15,44 @@ B.Tech Student • Software Developer • Problem Solver • Tech Enthusiast
 
 ---
 
-## 👨‍💻 About Me
+<table>
+<tr>
 
-I'm currently pursuing my **B.Tech** and have a strong interest in software development, problem-solving, and emerging technologies.
+<!-- LEFT : Animated Grid Portrait -->
+<td width="35%" align="center" valign="middle">
 
-I enjoy exploring how things work, learning new concepts, and turning ideas into practical solutions through code.
+<img
+  src="https://raw.githubusercontent.com/SanuSamanta-oss/SanuSamanta-oss/main/assets/profile_grid.gif"
+  width="280"
+  alt="Animated grid portrait"
+/>
 
-> **Just give me the problem statement — it reveals my personality.**
+</td>
 
-- 🔭 Currently working on **Pathasarthy — Train ETA Prediction 2.0**
-- 🌱 Currently learning **NumPy, Pandas & PyTorch**
-- 🤝 Looking to collaborate on **Pathasarthy**
-- 💬 Ask me about **Python**
-- 🖌️ Fun fact: **I'm an Artist**
+<!-- RIGHT : About Me -->
+<td width="65%" valign="middle">
+
+<h2>💫 About Me</h2>
+
+I'm currently a B.Tech student with a strong interest in
+software development, problem-solving, and emerging technologies.
+
+<br><br>
+
+I enjoy exploring how things work, learning new concepts,
+and turning challenging problem statements into practical solutions.
+
+<br><br>
+
+<b>
+Just give me the problem statement —<br>
+it reveals my personality.
+</b>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
