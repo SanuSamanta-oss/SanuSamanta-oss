@@ -97,23 +97,6 @@ The system focuses on predicting **future destination delay**, rather than simpl
 
 ---
 
-# 🌐 All My Projects
-
-<p align="center">
-
-<a href="https://sanu-is-here.lovable.app/?__lovable_sha=972d0d20">
-
-<img
-  src="https://img.shields.io/badge/View%20All%20Projects-181717?style=for-the-badge&logo=googlechrome&logoColor=white"
-  alt="All My Projects"
-/>
-
-</a>
-
-</p>
-
----
-
 # 📊 GitHub Analytics
 
 ## 📈 Contribution Activity
