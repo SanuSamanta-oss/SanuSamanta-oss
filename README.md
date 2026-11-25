@@ -201,7 +201,7 @@ The system focuses on predicting **future destination delay**, rather than simpl
 </p>
 
 <p align="center">
-  <a href="https://sanu-is-here.lovable.app/">
+  <a href="https://sanu-is-here.vercel.app/">
     <img
       src="./assets/portfolio-preview.png"
       width="90%"
