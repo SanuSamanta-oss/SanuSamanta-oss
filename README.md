@@ -211,7 +211,7 @@ The system focuses on predicting **future destination delay**, rather than simpl
 </p>
 
 <p align="center">
-  <a href="https://sanu-is-here.lovable.app/">
+  <a href="https://sanu-is-here.vercel.app/">
     <img
       src="https://img.shields.io/badge/🌐%20VISIT%20MY%20PORTFOLIO-111111?style=for-the-badge"
       alt="Visit Portfolio"
